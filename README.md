@@ -11,7 +11,8 @@ Then, install the ctools-content-type generator:
 
     npm install -g salvamomo/generator-ctools-content-type
 
-### Generate CTools Content Type plugins like there's no tomorrow:
+Generate CTools Content Type plugins like there's no tomorrow:
+    
     yo ctools-content-type
 
 * Title

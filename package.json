@@ -1,0 +1,14 @@
+{
+  "name": "generator-ctools-content-type",
+  "version": "0.1.0",
+  "description": "A Ctools content_type plugins generator for Drupal",
+  "main": "index.js",
+  "keywords": [
+    "Drupal",
+    "ctools"
+  ],
+  "author": "Salva Molina",
+  "dependencies": {
+    "yeoman-generator": "^0.19.2"
+  }
+}

@@ -3,7 +3,11 @@
   "version": "0.1.0",
   "description": "A Ctools content_type plugins generator for Drupal",
   "main": "index.js",
+  "files": [
+    "app"
+  ],
   "keywords": [
+    "yeoman-generator",
     "Drupal",
     "ctools"
   ],

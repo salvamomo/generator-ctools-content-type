@@ -9,6 +9,7 @@
   ],
   "author": "Salva Molina",
   "dependencies": {
+    "mkdirp": "^0.5.0",
     "yeoman-generator": "^0.19.2"
   }
 }

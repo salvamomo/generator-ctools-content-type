@@ -16,7 +16,7 @@ $plugin = array(
   'category' => t('<%= ct_category %>'),
   'defaults' => array(),
   'render callback' => '<%= ct_machine_name %>_content_type_render',<% if (ct_edit_form) { %>
-    'edit form' => '<%= ct_machine_name %>_settings_form' => t('<%= ct_title %> - Settings'),<% } %><% if (ct_context) { %>
+    'edit form' => '<%= ct_machine_name %>_settings_form',<% } %><% if (ct_context) { %>
     'required context' => array(
       new ctools_context_required(t('<%= ct_context %>'), 'any'),
     ),
